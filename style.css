@@ -90,11 +90,57 @@ header{
     text-align: center;
 }
 
+/* deal section */
+.deal-container{
+    margin-top: 128px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+    background-color: #ffe6eb;
+    gap: 180px;
+}
+
+.deal-content{
+    text-align: center;
+}
+#off{
+    color: #E55473;
+}
+
+.deal-description{
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
 /* .insta-pic section*/
 .insta-container{
     margin-top: 128px;
+    margin-bottom: 128px;
     text-align: center;
 }
 .insta-pic{
     margin-top: 48px;
 }
+
+/* subcribe */
+
+.subscibe-contant{
+    max-width: 100vh;
+    margin: auto;
+    justify-content: center;
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    padding: 122px 280px;
+    text-align: center;
+}
+.subscribe{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
