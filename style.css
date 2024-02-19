@@ -59,6 +59,7 @@ header{
 .Fratured{
     margin-top: 170px;
     text-align: center;
+    margin-bottom: 128px;
 }
 .Featured-description{
     margin-top: 24px;
@@ -68,7 +69,6 @@ header{
     display: flex;
     justify-content: center;
     gap: 24px;
-    margin-bottom: 128px;
 }
 .flower-item{
     display: block;
@@ -76,4 +76,25 @@ header{
 }
 .item{
     align-items: center;
+}
+
+/* service section */
+.service-container{
+    max-width: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 86px 175px;
+    background-color: #dddddd;
+    gap: 100px;
+    text-align: center;
+}
+
+/* .insta-pic section*/
+.insta-container{
+    margin-top: 128px;
+    text-align: center;
+}
+.insta-pic{
+    margin-top: 48px;
 }
